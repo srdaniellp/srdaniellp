@@ -36,7 +36,6 @@ class SecurityResearcher:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
@@ -50,31 +49,6 @@ class SecurityResearcher:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srdaniellp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srdaniellp&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdaniellp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="40%" />
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [supabase-scanner](https://github.com/srdaniellp/supabase-scanner) | Security scanner for Supabase RLS misconfigurations |
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srdaniellp&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <i>"The quieter you become, the more you can hear."</i>
 </p>
